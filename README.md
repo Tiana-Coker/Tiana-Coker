@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Christiana Coker, a software developer with a focus on both frontend and backend development. I'm currently refining my skills in Java, Spring Boot, and frontend technologies, and I'm interested in collaborating on projects in these areas.
 
 <!--
 **Tiana-Coker/Tiana-Coker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🔭 I’m currently working on ...
+- Building a Java Spring Boot project named **iFarmr** that integrates REST APIs with Spring Security.
+- Enhancing my skills in frontend development to create responsive and efficient applications.
+
+### 🌱 I’m currently learning ...
+- Advanced concepts in Java Spring Boot to improve backend performance and security.
+- Best practices in frontend development for building scalable user interfaces.
+
+### 👯 I’m looking to collaborate on ...
+- Frontend projects involving modern JavaScript frameworks and libraries.
+- Backend projects focused on Java Spring Boot and secure REST API development.
+
+### 🤔 I’m looking for help with ...
+- Exploring new methods to enhance security and performance in web applications.
+- Expanding my knowledge of best practices in both frontend and backend development.
+
+### 💬 Ask me about ...
+- Frontend development and creating responsive user interfaces.
+- Java Spring Boot development, especially in secure REST APIs.
+
+### 📫 How to reach me ...
+- [Email](mailto:tianacoker1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tiana-c)
+
+### 😄 Pronouns ...
+- She/Her
+
+### ⚡ Fun fact ...
+- I'm not great at mental math, but I excel when I have a calculator in hand. It's all about using the right tools for the job!
+
+[![](https://visitcount.itsvg.in/api?id=tiana&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
