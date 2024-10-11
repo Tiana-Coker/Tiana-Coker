@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ### 🔭 I’m currently working on ...
-- Building a Java Spring Boot project named **iFarmr** and **SwiftPay**.
+- Building a Java Spring Boot project named **SwiftPay**.
 - Enhancing my skills in frontend development to create responsive and efficient applications.
 
 ### 🌱 I’m currently learning ...
